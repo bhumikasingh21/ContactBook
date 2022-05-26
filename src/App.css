@@ -2,7 +2,7 @@ table {
   font-family: arial, sans-serif;
   border-collapse: collapse;
   width: 99%;
-  margin: 10px;
+  margin: 15px;
 }
 
 td, th {
@@ -17,6 +17,7 @@ button{
   padding: 5px;
   border: 1px solid black;
   margin-left: 5px;
+  cursor: pointer;
 }
 
 form{
@@ -49,6 +50,7 @@ form{
   width: 100%;
   margin-top: 5px;
   margin-right: 20px;
+  cursor: pointer;
 }
 
 .add-btn button{
@@ -58,4 +60,5 @@ form{
   background-color: #6264A7;
   color: #dddddd;
   border-radius: 2px;
+  cursor: pointer;
 } 
